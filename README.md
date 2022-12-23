@@ -1,2 +1,3 @@
-# .github
-ryuluna/.github is a ✨special ✨ repository that you can use to add a README.md to your public organization profile, visible to anyone.
+# Ryuluna
+
+Dance Hits Korea is an upcoming dance game with 30 K-Pop songs for you and your family to enjoy
